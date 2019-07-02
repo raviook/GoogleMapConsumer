@@ -1,0 +1,14 @@
+C:\Users\ravio\Projects\GoogleMapConsumer\bin\Debug\netcoreapp2.2\GoogleMapConsumer.deps.json
+C:\Users\ravio\Projects\GoogleMapConsumer\bin\Debug\netcoreapp2.2\GoogleMapConsumer.runtimeconfig.json
+C:\Users\ravio\Projects\GoogleMapConsumer\bin\Debug\netcoreapp2.2\GoogleMapConsumer.runtimeconfig.dev.json
+C:\Users\ravio\Projects\GoogleMapConsumer\bin\Debug\netcoreapp2.2\GoogleMapConsumer.dll
+C:\Users\ravio\Projects\GoogleMapConsumer\bin\Debug\netcoreapp2.2\GoogleMapConsumer.pdb
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.csprojAssemblyReference.cache
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.csproj.CoreCompileInputs.cache
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.RazorAssemblyInfo.cache
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.RazorAssemblyInfo.cs
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.AssemblyInfoInputs.cache
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.AssemblyInfo.cs
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.RazorTargetAssemblyInfo.cache
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.dll
+C:\Users\ravio\Projects\GoogleMapConsumer\obj\Debug\netcoreapp2.2\GoogleMapConsumer.pdb
